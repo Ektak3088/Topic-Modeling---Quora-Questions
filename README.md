@@ -6,4 +6,4 @@ Tried different topic modeling appraoches.
 3)Topic Modeling with Randomized_SVD - Sklearn.
 The choice of number of topics will depend on what number gives meaningful topics. 
 I have selected 20 number of topics.
-Please explain different topics that you have extracted.
+Explained different topics that I have extracted.
